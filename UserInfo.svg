@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="355px" preserveAspectRatio="none" style="width:355px;height:355px;" version="1.1" viewBox="0 0 355 355" width="355px" zoomAndPan="magnify"><defs><filter height="300%" id="fjldygojq6oan" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[9e94af7e26ddd61f16675ec5a7d7b75f]
+class UserInfo--><rect fill="#FEFECE" filter="url(#fjldygojq6oan)" height="228.3184" id="UserInfo" style="stroke: #A80036; stroke-width: 1.5;" width="338" x="6" y="8"/><ellipse cx="134.75" cy="24" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M131.3438,18.7813 L131.3438,17.6875 L137.3438,17.6875 L137.3438,18.7813 L135.4688,18.7813 Q135.3281,18.7813 135.2656,18.8281 Q135.2188,18.8594 135.2188,18.9688 L135.2188,28.4531 Q135.2188,28.5625 135.2656,28.6094 Q135.3281,28.6406 135.4688,28.6406 L137.3438,28.6406 L137.3438,29.7344 L131.3438,29.7344 L131.3438,28.6406 L133.2188,28.6406 Q133.4063,28.6406 133.4375,28.6094 Q133.4688,28.5781 133.4688,28.4531 L133.4688,18.9688 Q133.4688,18.8438 133.4375,18.8125 Q133.4063,18.7813 133.2188,18.7813 L131.3438,18.7813 Z "/><text fill="#000000" font-family="Consolas" font-size="16" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="72" x="155.25" y="29.25">UserInfo</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="343" y1="40" y2="40"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="343" y1="48" y2="48"/><ellipse cx="17" cy="59" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="232" x="26" y="64.79">void setUserId(String userId)</text><ellipse cx="17" cy="75.3926" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="26" y="81.1826">String getUserId()</text><ellipse cx="17" cy="91.7852" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="264" x="26" y="97.5752">void setPassword(String password)</text><ellipse cx="17" cy="108.1777" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="160" x="26" y="113.9678">String getPassword()</text><ellipse cx="17" cy="124.5703" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="232" x="26" y="130.3604">void setUsername(String name)</text><ellipse cx="17" cy="140.9629" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="160" x="26" y="146.7529">String getUsername()</text><ellipse cx="17" cy="157.3555" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="312" x="26" y="163.1455">boolean changePassword(String password)</text><ellipse cx="17" cy="173.748" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="160" x="26" y="179.5381">boolean deleteUser()</text><ellipse cx="17" cy="190.1406" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="26" y="195.9307">void mapUser()</text><ellipse cx="17" cy="206.5332" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="26" y="212.3232">boolean addOrg(int orgId)</text><ellipse cx="17" cy="222.9258" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="216" x="26" y="228.7158">boolean addRole(int roleId)</text><!--MD5=[74209e0d9ce79dbf298c1f6f66a32bb3]
+class UserInfoImpl--><rect fill="#FEFECE" filter="url(#fjldygojq6oan)" height="48" id="UserInfoImpl" style="stroke: #A80036; stroke-width: 1.5;" width="140" x="105" y="296"/><ellipse cx="120" cy="312" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M119.4219,317.8594 Q117.3906,317.8594 116.2031,316.3594 Q115.0313,314.8594 115.0313,311.75 Q115.0313,309.1094 116.2813,307.3438 Q117.5313,305.5625 119.6875,305.5625 Q120.2031,305.5625 120.7344,305.7031 Q121.1719,305.8906 121.4219,305.8906 Q121.6094,305.8906 121.7031,305.8594 Q121.7969,305.8125 122.3438,305.0938 L123.1563,309.0625 L122.1094,309.375 Q121.6563,307.875 121.0625,307.2969 Q120.4844,306.7031 119.5625,306.7031 Q118.3906,306.7031 117.6875,308.1094 Q116.9844,309.5 116.9844,311.6719 Q116.9844,314.0625 117.5781,315.3281 Q118.1875,316.5781 119.5,316.5781 Q120.4219,316.5781 121.0938,315.9063 Q121.7656,315.2188 122.0938,313.6406 L123.1406,314.1406 Q122.7344,315.9063 121.75,316.8906 Q120.7656,317.8594 119.4219,317.8594 Z "/><text fill="#000000" font-family="Consolas" font-size="16" lengthAdjust="spacingAndGlyphs" textLength="108" x="134" y="317.25">UserInfoImpl</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="106" x2="244" y1="328" y2="328"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="106" x2="244" y1="336" y2="336"/><!--MD5=[5310e1ba9a8e6780b13e9b6d9bb492ce]
+reverse link UserInfo to UserInfoImpl--><path d="M175,256.25 C175,271.36 175,285.19 175,295.99 " fill="none" id="UserInfo&lt;-UserInfoImpl" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="168,256.16,175,236.16,182,256.16,168,256.16" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4da71240a49a4c096d1de69f8b6e76fd]
+@startuml UserInfo
+skinparam {
+    ClassFontName Consolas
+    ClassFontSize 16
+    ClassAttributeFontName Consolas
+    ClassAttributeFontSize 14
+}
+
+UserInfo <|.. UserInfoImpl
+
+interface UserInfo {
+    + void setUserId(String userId)
+    + String getUserId()
+    + void setPassword(String password)
+    + String getPassword()
+    + void setUsername(String name)
+    + String getUsername()
+    + boolean changePassword(String password)
+    + boolean deleteUser()
+    + void mapUser()
+    + boolean addOrg(int orgId)
+    + boolean addRole(int roleId)
+}
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 17:35:57 CST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.8+10
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
