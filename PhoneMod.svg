@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="208px" preserveAspectRatio="none" style="width:584px;height:208px;" version="1.1" viewBox="0 0 584 208" width="584px" zoomAndPan="magnify"><defs><filter height="300%" id="f18p1y2grd4hz4" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[bc899032e3052a7bbadb20e1fb407a39]
+class ConnectionManger--><rect fill="#FEFECE" filter="url(#f18p1y2grd4hz4)" height="80.7852" id="ConnectionManger" style="stroke: #A80036; stroke-width: 1.5;" width="234" x="6" y="8"/><ellipse cx="47.1" cy="24" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M43.6938,18.7813 L43.6938,17.6875 L49.6938,17.6875 L49.6938,18.7813 L47.8188,18.7813 Q47.6781,18.7813 47.6156,18.8281 Q47.5688,18.8594 47.5688,18.9688 L47.5688,28.4531 Q47.5688,28.5625 47.6156,28.6094 Q47.6781,28.6406 47.8188,28.6406 L49.6938,28.6406 L49.6938,29.7344 L43.6938,29.7344 L43.6938,28.6406 L45.5688,28.6406 Q45.7563,28.6406 45.7875,28.6094 Q45.8188,28.5781 45.8188,28.4531 L45.8188,18.9688 Q45.8188,18.8438 45.7875,18.8125 Q45.7563,18.7813 45.5688,18.7813 L43.6938,18.7813 Z "/><text fill="#000000" font-family="Consolas" font-size="16" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="144" x="66.9" y="29.25">ConnectionManger</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="239" y1="40" y2="40"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="239" y1="48" y2="48"/><ellipse cx="17" cy="59" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="208" x="26" y="64.79">void dial(String phoneNum)</text><ellipse cx="17" cy="75.3926" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="104" x="26" y="81.1826">void hangUp()</text><!--MD5=[689b446dc4eebb5626c4713f493d91d1]
+class DataTransfer--><rect fill="#FEFECE" filter="url(#f18p1y2grd4hz4)" height="64.3926" id="DataTransfer" style="stroke: #A80036; stroke-width: 1.5;" width="298" x="275" y="16.5"/><ellipse cx="365.75" cy="32.5" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M362.3438,27.2813 L362.3438,26.1875 L368.3438,26.1875 L368.3438,27.2813 L366.4688,27.2813 Q366.3281,27.2813 366.2656,27.3281 Q366.2188,27.3594 366.2188,27.4688 L366.2188,36.9531 Q366.2188,37.0625 366.2656,37.1094 Q366.3281,37.1406 366.4688,37.1406 L368.3438,37.1406 L368.3438,38.2344 L362.3438,38.2344 L362.3438,37.1406 L364.2188,37.1406 Q364.4063,37.1406 364.4375,37.1094 Q364.4688,37.0781 364.4688,36.9531 L364.4688,27.4688 Q364.4688,27.3438 364.4375,27.3125 Q364.4063,27.2813 364.2188,27.2813 L362.3438,27.2813 Z "/><text fill="#000000" font-family="Consolas" font-size="16" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="108" x="386.25" y="37.75">DataTransfer</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="276" x2="572" y1="48.5" y2="48.5"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="276" x2="572" y1="56.5" y2="56.5"/><ellipse cx="286" cy="67.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="Consolas" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="272" x="295" y="73.29">DataTransfer(ConnectionManger con)</text><!--MD5=[03be55fb4aae919908819e432b9694ea]
+class Phone--><rect fill="#FEFECE" filter="url(#f18p1y2grd4hz4)" height="48" id="Phone" style="stroke: #A80036; stroke-width: 1.5;" width="77" x="234.5" y="149"/><ellipse cx="249.5" cy="165" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M248.9219,170.8594 Q246.8906,170.8594 245.7031,169.3594 Q244.5313,167.8594 244.5313,164.75 Q244.5313,162.1094 245.7813,160.3438 Q247.0313,158.5625 249.1875,158.5625 Q249.7031,158.5625 250.2344,158.7031 Q250.6719,158.8906 250.9219,158.8906 Q251.1094,158.8906 251.2031,158.8594 Q251.2969,158.8125 251.8438,158.0938 L252.6563,162.0625 L251.6094,162.375 Q251.1563,160.875 250.5625,160.2969 Q249.9844,159.7031 249.0625,159.7031 Q247.8906,159.7031 247.1875,161.1094 Q246.4844,162.5 246.4844,164.6719 Q246.4844,167.0625 247.0781,168.3281 Q247.6875,169.5781 249,169.5781 Q249.9219,169.5781 250.5938,168.9063 Q251.2656,168.2188 251.5938,166.6406 L252.6406,167.1406 Q252.2344,168.9063 251.25,169.8906 Q250.2656,170.8594 248.9219,170.8594 Z "/><text fill="#000000" font-family="Consolas" font-size="16" lengthAdjust="spacingAndGlyphs" textLength="45" x="263.5" y="170.25">Phone</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="235.5" x2="310.5" y1="181" y2="181"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="235.5" x2="310.5" y1="189" y2="189"/><!--MD5=[65cc919f85ef9c63d08da5809f83f085]
+reverse link ConnectionManger to DataTransfer--><path d="M245.4,48.5 C255.18,48.5 264.95,48.5 274.73,48.5 " fill="none" id="ConnectionManger&lt;-DataTransfer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="240.28,48.5,249.28,52.5,245.28,48.5,249.28,44.5,240.28,48.5" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[7571b56f895d10d751345da95f1d85fb]
+reverse link ConnectionManger to Phone--><path d="M187.41,102.1 C207.41,118.44 228.44,135.61 244.64,148.84 " fill="none" id="ConnectionManger&lt;-Phone" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="182.76,107.34,171.7,89.27,191.62,96.5,182.76,107.34" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4d4b23a2786bda80e08c5487ebd27aa9]
+reverse link DataTransfer to Phone--><path d="M369.71,93.54 C346.61,112.28 320.62,133.36 301.41,148.95 " fill="none" id="DataTransfer&lt;-Phone" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="365.56,87.89,385.51,80.73,374.38,98.77,365.56,87.89" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[448d2e0807fdb7e42245ea31bd492de4]
+@startuml PhoneMod
+skinparam {
+    ClassFontName Consolas
+    ClassFontSize 16
+    ClassAttributeFontName Consolas
+    ClassAttributeFontSize 14
+}
+
+ConnectionManger <..left DataTransfer
+ConnectionManger <|.. Phone
+DataTransfer <|.. Phone
+
+interface ConnectionManger {
+    + void dial(String phoneNum)
+    + void hangUp()
+}
+
+interface DataTransfer {
+    + DataTransfer(ConnectionManger con)
+}
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 17:35:57 CST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.8+10
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
